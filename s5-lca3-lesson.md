@@ -134,14 +134,14 @@ Distinction entre dérivations transparentes et opaques :
 <tbody>
   <tr>
    <td style="text-align:left;"> generalize </td>
-   <td style="text-align:left;"> ![](sounds/generalize-4.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/generalize-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'dʒen.ər.ə.laɪz/ </td>
    <td style="text-align:left;"> /'dʒen.ər.ə.ˌlaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mechanize </td>
-   <td style="text-align:left;"> ![](sounds/mechanize-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/mechanize-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'mek.ə.naɪz/ </td>
    <td style="text-align:left;"> /'mek.ə.ˌnaɪz/ </td>
@@ -182,7 +182,7 @@ Elle est dite opaque lorsque :
 <tbody>
   <tr>
    <td style="text-align:left;"> elude </td>
-   <td style="text-align:left;"> ![](sounds/elude-5.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/elude-8.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ɪ.'luːd/ </td>
    <td style="text-align:left;"> /ɪ.'luːd/ </td>
@@ -196,7 +196,7 @@ Elle est dite opaque lorsque :
   </tr>
   <tr>
    <td style="text-align:left;"> repair </td>
-   <td style="text-align:left;"> ![](sounds/repair-uk1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/repair-5.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /ri.'peə/ </td>
    <td style="text-align:left;"> /ri.'per/ </td>
@@ -217,28 +217,28 @@ Elle est dite opaque lorsque :
   </tr>
   <tr>
    <td style="text-align:left;"> deter </td>
-   <td style="text-align:left;"> ![](sounds/deter-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/deter-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /di.'tɜː/ </td>
    <td style="text-align:left;"> /di.'t3r ː/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> deterrent </td>
-   <td style="text-align:left;"> ![](sounds/deterrent-7.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/deterrent-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /di.'ter.ənt/ </td>
    <td style="text-align:left;"> /di.'t3r ːr.ənt/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> prefer </td>
-   <td style="text-align:left;"> ![](sounds/prefer-9.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/prefer-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01/ </td>
    <td style="text-align:left;"> /pri.'fɜː/ </td>
    <td style="text-align:left;"> /pri.'f3r ː/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> preferable </td>
-   <td style="text-align:left;"> ![](sounds/preferable-6.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/preferable-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'pref.ər.əb.əl/ </td>
    <td style="text-align:left;"> /'pref.ər.əb.əl/ </td>
@@ -266,42 +266,42 @@ Deux cas :
 <tbody>
   <tr>
    <td style="text-align:left;"> canonize </td>
-   <td style="text-align:left;"> ![](sounds/canonize-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/canonize-8.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kæn.ə.naɪz/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> colonize </td>
-   <td style="text-align:left;"> ![](sounds/colonize-10.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/colonize-8.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kɒl.ə.naɪz/ </td>
    <td style="text-align:left;"> /'kɑːl.ə.ˌnaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> agonize </td>
-   <td style="text-align:left;"> ![](sounds/agonize-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/agonize-5.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'æg.ə.naɪz/ </td>
    <td style="text-align:left;"> /'æg.ə.ˌnaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> civilize </td>
-   <td style="text-align:left;"> ![](sounds/civilize-7.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/civilize-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sɪv.ə.laɪz/ </td>
    <td style="text-align:left;"> /'sɪv.ə.ˌlaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> criticise </td>
-   <td style="text-align:left;"> ![](sounds/criticise-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/criticise-4.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'krɪt.ɪ.saɪz/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> polarize </td>
-   <td style="text-align:left;"> ![](sounds/polarize-1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/polarize-10.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pəʊl.ə.raɪz/ </td>
    <td style="text-align:left;"> /'poʊl.ə.ˌraɪz/ </td>
@@ -315,21 +315,21 @@ Deux cas :
   </tr>
   <tr>
    <td style="text-align:left;"> legalize </td>
-   <td style="text-align:left;"> ![](sounds/legalize-5.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/legalize-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'liːg.ə.laɪz/ </td>
    <td style="text-align:left;"> /'liːg.ə.ˌlaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> finalize </td>
-   <td style="text-align:left;"> ![](sounds/finalize-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/finalize-7.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'faɪn.ə.laɪz/ </td>
    <td style="text-align:left;"> /'faɪn.ə.ˌlaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> latinize </td>
-   <td style="text-align:left;"> ![](sounds/latinize-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/latinize-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'læt.ɪ.naɪz/ </td>
    <td style="text-align:left;">  </td>
@@ -357,63 +357,63 @@ Deux cas :
   </tr>
   <tr>
    <td style="text-align:left;"> familiarize </td>
-   <td style="text-align:left;"> ![](sounds/familiarize-1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/familiarize-7.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /fə.'mɪl.i.ə.raɪz/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> legitimize </td>
-   <td style="text-align:left;"> ![](sounds/legitimize-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/legitimize-7.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /li.'dʒɪt.ə.maɪz/ </td>
    <td style="text-align:left;"> /li.'dʒɪt.ə.ˌmaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> generalize </td>
-   <td style="text-align:left;"> ![](sounds/generalize-6.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/generalize-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'dʒen.ər.ə.laɪz/ </td>
    <td style="text-align:left;"> /'dʒen.ər.ə.ˌlaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> capitalize </td>
-   <td style="text-align:left;"> ![](sounds/capitalize-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/capitalize-7.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'kæp.ɪt.ə.laɪz/ </td>
    <td style="text-align:left;"> /'kæp.ɪt.ə.ˌlaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> devitalize </td>
-   <td style="text-align:left;"> ![](sounds/devitalize-3.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/devitalize-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /diː.'vaɪt.ə.laɪz/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> materialize </td>
-   <td style="text-align:left;"> ![](sounds/materialize-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/materialize-10.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /mə.'tɪər.i.ə.laɪz/ </td>
    <td style="text-align:left;"> /mə.'tɪr.i.ə.ˌlaɪz/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> decimalize </td>
-   <td style="text-align:left;"> ![](sounds/decimalize-8.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/decimalize-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'des.əm.ə.laɪz/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> immobilize </td>
-   <td style="text-align:left;"> ![](sounds/immobilize-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/immobilize-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪ.'məub.ə.laɪz/ </td>
    <td style="text-align:left;"> /ˌ***ɪH***.'moʊb.ə.ˌl***ɪH***z/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> categorize </td>
-   <td style="text-align:left;"> ![](sounds/categorize-1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/categorize-5.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'kæt.ɪg.ə.raɪz/ </td>
    <td style="text-align:left;"> /'kæt.ɪg.ə.ˌraɪz/ </td>
@@ -452,7 +452,7 @@ Comparer les mots suivants : une règle peut-elle être déduite ?
   </tr>
   <tr>
    <td style="text-align:left;"> colonize </td>
-   <td style="text-align:left;"> ![](sounds/colonize-5.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/colonize-10.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kɒl.ə.naɪz/ </td>
    <td style="text-align:left;"> /'kɑːl.ə.ˌnaɪz/ </td>
@@ -519,35 +519,35 @@ Majoritairement prononcé /ətɪv/ mais quelques exceptions : /'prɒp.ə.geɪt.�
 <tbody>
   <tr>
    <td style="text-align:left;"> generative </td>
-   <td style="text-align:left;"> ![](sounds/generative-9.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/generative-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'dʒen.ər.ət.ɪv/ </td>
    <td style="text-align:left;"> /'dʒen.ər.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> appreciative </td>
-   <td style="text-align:left;"> ![](sounds/appreciative-9.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/appreciative-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ə.'priːʃ.i.ət.ɪv/ </td>
    <td style="text-align:left;"> /ə.'priːʃ.i.ˌeɪt.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> speculative </td>
-   <td style="text-align:left;"> ![](sounds/speculative-9.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/speculative-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'spek.jʊl.ət.ɪv/ </td>
    <td style="text-align:left;"> /'spek.jʊl.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> communicative </td>
-   <td style="text-align:left;"> ![](sounds/communicative-10.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/communicative-4.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /kə.'mjuːn.ɪk.ət.ɪv/ </td>
    <td style="text-align:left;"> /kə.'mjuːn.ɪk.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> cumulative </td>
-   <td style="text-align:left;"> ![](sounds/cumulative-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/cumulative-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'kjuːm.jʊl.ət.ɪv/ </td>
    <td style="text-align:left;"> /'kjuːm.jʊl.ət.ɪv/ </td>
@@ -571,63 +571,63 @@ Exceptions à cette règle : les mots de la langue savante médiévale
 <tbody>
   <tr>
    <td style="text-align:left;"> demonstrative </td>
-   <td style="text-align:left;"> ![](sounds/demonstrative-8.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/demonstrative-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /di.'mɒns.trət.ɪv/ </td>
    <td style="text-align:left;"> /ˌdɪ.'mɑːns.trət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> affirmative </td>
-   <td style="text-align:left;"> ![](sounds/affirmative-6.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/affirmative-3.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ə.'fɜːm.ət.ɪv/ </td>
    <td style="text-align:left;"> /ə.'f3r ːm.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> imperative </td>
-   <td style="text-align:left;"> ![](sounds/imperative-6.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/imperative-8.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪm.'per.ət.ɪv/ </td>
    <td style="text-align:left;"> /ˌɪm.'per.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> indicative </td>
-   <td style="text-align:left;"> ![](sounds/indicative-7.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/indicative-3.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'dɪk.ət.ɪv/ </td>
    <td style="text-align:left;"> /ˌɪn.'dɪk.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> interrogative </td>
-   <td style="text-align:left;"> ![](sounds/interrogative-6.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/interrogative-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /20100/ </td>
    <td style="text-align:left;"> /ˌɪnt.ə.'rɒg.ət.ɪv/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> alternative </td>
-   <td style="text-align:left;"> ![](sounds/alternative-7.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/alternative-8.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɔːl.'tɜːn.ət.ɪv/ </td>
    <td style="text-align:left;"> /ɔːl.'t3r ːn.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> predicative </td>
-   <td style="text-align:left;"> ![](sounds/predicative-5.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/predicative-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pri.'dɪk.ət.ɪv/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> implicative </td>
-   <td style="text-align:left;"> ![](sounds/implicative-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/implicative-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪm.'plɪk.ət.ɪv/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> correlative </td>
-   <td style="text-align:left;"> ![](sounds/correlative-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/correlative-5.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kə.'rel.ət.ɪv/ </td>
    <td style="text-align:left;">  </td>
@@ -650,28 +650,28 @@ Exceptions à cette règle : les mots de la langue savante médiévale
 <tbody>
   <tr>
    <td style="text-align:left;"> talkative </td>
-   <td style="text-align:left;"> ![](sounds/talkative-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/talkative-4.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tɔːk.ət.ɪv/ </td>
    <td style="text-align:left;"> /'tɔːk.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> interpretative </td>
-   <td style="text-align:left;"> ![](sounds/interpretative-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/interpretative-2.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ɪn.'tɜːp.rɪt.ət.ɪv/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> authoritative </td>
-   <td style="text-align:left;"> ![](sounds/authoritative-1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/authoritative-9.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /01000/ </td>
    <td style="text-align:left;"> /ɔː.'θɒr.ɪt.ət.ɪv/ </td>
    <td style="text-align:left;"> /ɔː.'θɔːr.ɪt.ˌeɪt.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> derivative </td>
-   <td style="text-align:left;"> ![](sounds/derivative-8.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/derivative-2.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /di.'rɪv.ət.ɪv/ </td>
    <td style="text-align:left;"> /di.'rɪv.ət.ɪv/ </td>
@@ -685,35 +685,35 @@ Exceptions à cette règle : les mots de la langue savante médiévale
   </tr>
   <tr>
    <td style="text-align:left;"> prerogative </td>
-   <td style="text-align:left;"> ![](sounds/prerogative-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/prerogative-4.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pri.'rɒg.ət.ɪv/ </td>
    <td style="text-align:left;"> /pri.'rɑːg.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> figurative </td>
-   <td style="text-align:left;"> ![](sounds/figurative-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/figurative-7.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /1000/ </td>
    <td style="text-align:left;"> /'fɪg.ər.ət.ɪv/ </td>
    <td style="text-align:left;"> /'fɪg.ər.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> declarative </td>
-   <td style="text-align:left;"> ![](sounds/declarative-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/declarative-5.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /di.'klær.ət.ɪv/ </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> informative </td>
-   <td style="text-align:left;"> ![](sounds/informative-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/informative-7.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /ɪn.'fɔːm.ət.ɪv/ </td>
    <td style="text-align:left;"> /ˌɪn.'fɔːm.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> tentative </td>
-   <td style="text-align:left;"> ![](sounds/tentative-3.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/tentative-uk1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'tent.ət.ɪv/ </td>
    <td style="text-align:left;"> /'tent.ət.ɪv/ </td>
@@ -738,14 +738,14 @@ Exception : /kri.'eɪt.ɪv/
 <tbody>
   <tr>
    <td style="text-align:left;"> relative </td>
-   <td style="text-align:left;"> ![](sounds/relative-3.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/relative-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'rel.ət.ɪv/ </td>
    <td style="text-align:left;"> /'rel.ət.ɪv/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> sedative </td>
-   <td style="text-align:left;"> ![](sounds/sedative-1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/sedative-9.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'sed.ət.ɪv/ </td>
    <td style="text-align:left;"> /'sed.ət.ɪv/ </td>
@@ -759,7 +759,7 @@ Exception : /kri.'eɪt.ɪv/
   </tr>
   <tr>
    <td style="text-align:left;"> narrative </td>
-   <td style="text-align:left;"> ![](sounds/narrative-1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/narrative-3.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'nær.ət.ɪv/ </td>
    <td style="text-align:left;"> /'ner.ət.ɪv/ </td>

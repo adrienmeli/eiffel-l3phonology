@@ -277,21 +277,21 @@ Listen to the following words. Give their stress patterns, and transcribe them i
   </tr>
   <tr>
    <td style="text-align:left;"> comedian </td>
-   <td style="text-align:left;"> ![](sounds/comedian-7.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/comedian-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
    <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magician </td>
-   <td style="text-align:left;"> ![](sounds/magician-7.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/magician-8.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /010/ </td>
    <td style="text-align:left;"> /mə.'dʒɪʃ.ən/ </td>
    <td style="text-align:left;"> /mə.'dʒɪʃ.ən/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> custodian </td>
-   <td style="text-align:left;"> ![](sounds/custodian-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/custodian-5.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /kʌ.'stəʊd.i.ən/ </td>
    <td style="text-align:left;"> /kʌ.'stoʊd.i.ən/ </td>
@@ -354,21 +354,21 @@ It is an extension of the infamous <-ion> rule, so we can formalize:
   </tr>
   <tr>
    <td style="text-align:left;"> comedy </td>
-   <td style="text-align:left;"> ![](sounds/comedy-3.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/comedy-2.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kɒm.əd.i/ </td>
    <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magic </td>
-   <td style="text-align:left;"> ![](sounds/magic-uk1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/magic-4.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> custody </td>
-   <td style="text-align:left;"> ![](sounds/custody-hj1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/custody-2.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kʌst.əd.i/ </td>
    <td style="text-align:left;"> /'kʌst.əd.i/ </td>

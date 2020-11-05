@@ -90,7 +90,4 @@ règles-2
 duchet-4
 ginésy-4
 exceptions-4
-les-suffixes--ary--ory
-ish--ic-avec-relâchement
-ate-adjv.
-préfixes-détachables-ou-non
+références-1

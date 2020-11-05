@@ -51,21 +51,21 @@ Which are regular? Which aren't? What process is happening?
   </tr>
   <tr>
    <td style="text-align:left;"> comedy </td>
-   <td style="text-align:left;"> ![](sounds/comedy-5.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/comedy-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kɒm.əd.i/ </td>
    <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> magic </td>
-   <td style="text-align:left;"> ![](sounds/magic-6.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/magic-4.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /10/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
    <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> custody </td>
-   <td style="text-align:left;"> ![](sounds/custody-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/custody-1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'kʌst.əd.i/ </td>
    <td style="text-align:left;"> /'kʌst.əd.i/ </td>
@@ -125,7 +125,7 @@ Consider the following words:
 <tbody>
   <tr>
    <td style="text-align:left;"> average </td>
-   <td style="text-align:left;"> ![](sounds/average-4.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/average-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'æv.ər.ɪdʒ/ </td>
    <td style="text-align:left;"> /'æv.ər.ɪdʒ/ </td>
@@ -139,21 +139,21 @@ Consider the following words:
   </tr>
   <tr>
    <td style="text-align:left;"> vinegar </td>
-   <td style="text-align:left;"> ![](sounds/vinegar-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/vinegar-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'vɪn.ɪg.ə/ </td>
    <td style="text-align:left;"> /'vɪn.ɪg.ər/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> policy </td>
-   <td style="text-align:left;"> ![](sounds/policy-1.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/policy-6.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'pɒl.əs.i/ </td>
    <td style="text-align:left;"> /'pɑːl.əs.i/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> ratify </td>
-   <td style="text-align:left;"> ![](sounds/ratify-7.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/ratify-5.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'ræt.ɪ.faɪ/ </td>
    <td style="text-align:left;"> /'ræt.ɪ.ˌfaɪ/ </td>
@@ -167,14 +167,14 @@ Consider the following words:
   </tr>
   <tr>
    <td style="text-align:left;"> particular </td>
-   <td style="text-align:left;"> ![](sounds/particular-4.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/particular-hj1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /pə.'tɪk.jʊl.ə/ </td>
    <td style="text-align:left;"> /pə.'tɪk.jʊl.ər/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> majority </td>
-   <td style="text-align:left;"> ![](sounds/majority-6.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/majority-3.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /0100/ </td>
    <td style="text-align:left;"> /mə.'dʒɒr.ət.i/ </td>
    <td style="text-align:left;"> /mə.'dʒɔːr.ət.i/ </td>
@@ -208,14 +208,14 @@ Find the exception:
 <tbody>
   <tr>
    <td style="text-align:left;"> energy </td>
-   <td style="text-align:left;"> ![](sounds/energy-8.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/energy-4.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
    <td style="text-align:left;"> /'en.ədʒ.i/ </td>
   </tr>
   <tr>
    <td style="text-align:left;"> elephant </td>
-   <td style="text-align:left;"> ![](sounds/elephant-2.mp3){width="4cm"} </td>
+   <td style="text-align:left;"> ![](sounds/elephant-us1.mp3){width="4cm"} </td>
    <td style="text-align:left;"> /100/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
    <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
