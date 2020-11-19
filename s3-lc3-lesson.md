@@ -4,7 +4,7 @@
 
 ## Reminder 1: Skills
 
-* Skills to have: being able to find the stress pattern (*e.g.* /2010/) of a word when listening to it, and being able to give its phonological /træn.'skrɪp.ʃən/ (syllabification **NOT** required)
+* Skills to have: being able to find the stress pattern (*e.g.* /2010/) of a word when listening to it, and being able to give its phonological /\textipa{tr\ae n."skrIp.S@n}/ (syllabification **NOT** required)
 
 
 
@@ -13,10 +13,10 @@
 
 *(after @Fournier2007)*
 
-1. Every word has one and only one primary stress (annotated /'/  or /1/).
+1. Every word has one and only one primary stress (annotated /\textipa{"}/  or /1/).
 2. There can be no sequence of two stresses within a word.
 3. No word can begin with two unstressed syllables.
-  - When primary stress is placed on a syllable other than the first two, there appears a secondary stress on one of these syllables (annotated /ˌ/  or /2/).
+  - When primary stress is placed on a syllable other than the first two, there appears a secondary stress on one of these syllables (annotated /\textipa{""}/  or /2/).
 4. Syllables which receive neither stress /1/ nor stress /2/ are unstressed.
 
 
@@ -31,54 +31,18 @@ Which are regular? Which aren't? What process is happening?
 
 
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Word </th>
-   <th style="text-align:left;"> Sounds </th>
-   <th style="text-align:left;"> Stress </th>
-   <th style="text-align:left;"> Received Pronunciation </th>
-   <th style="text-align:left;"> General American </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> canada </td>
-   <td style="text-align:left;"> ![](sounds/canada-1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
-   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> comedy </td>
-   <td style="text-align:left;"> ![](sounds/comedy-hj1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'kɒm.əd.i/ </td>
-   <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> magic </td>
-   <td style="text-align:left;"> ![](sounds/magic-4.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /10/ </td>
-   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
-   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> custody </td>
-   <td style="text-align:left;"> ![](sounds/custody-1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
-   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> venus </td>
-   <td style="text-align:left;"> ![](sounds/venus-1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /10/ </td>
-   <td style="text-align:left;"> /'viːn.əs/ </td>
-   <td style="text-align:left;"> /'viːn.əs/ </td>
-  </tr>
-</tbody>
-</table>
+
+\begin{longtable}{lll}
+\toprule
+Word & Stress & Received Pronunciation\\
+\midrule
+\cellcolor{gray!6}{canada} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@d.@}/}\\
+comedy & /100/ & /\textipa{"k6m.@d.i}/\\
+\cellcolor{gray!6}{magic} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae dZ.Ik}/}\\
+custody & /100/ & /\textipa{"k2st.@d.i}/\\
+\cellcolor{gray!6}{venus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"vi:n.@s}/}\\
+\bottomrule
+\end{longtable}
 
 
 
@@ -86,11 +50,11 @@ Which are regular? Which aren't? What process is happening?
 
 
 
-* irregular: VCV $\rightarrow$ /æ/ instead of /eɪ / 
-* irregular: VCV $\rightarrow$  /ɒ/ instead of /əʊ/ 
-* irregular: VCV $\rightarrow$  /æ/ instead of /eɪ/ 
-* regular: VCC $\rightarrow$  /ʌ/ 
-* regular: VCV $\rightarrow$  iː/ 
+* irregular: VCV $\rightarrow$ /\textipa{\ae }/ instead of /\textipa{eI }/ 
+* irregular: VCV $\rightarrow$  /\textipa{6}/ instead of /\textipa{@U}/ 
+* irregular: VCV $\rightarrow$  /\textipa{\ae }/ instead of /\textipa{eI}/ 
+* regular: VCC $\rightarrow$  /\textipa{2}/ 
+* regular: VCV $\rightarrow$  \textipa{i:}/ 
 
 
 
@@ -112,75 +76,22 @@ Consider the following words:
 
 
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Word </th>
-   <th style="text-align:left;"> Sounds </th>
-   <th style="text-align:left;"> Stress </th>
-   <th style="text-align:left;"> Received Pronunciation </th>
-   <th style="text-align:left;"> General American </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> average </td>
-   <td style="text-align:left;"> ![](sounds/average-6.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'æv.ər.ɪdʒ/ </td>
-   <td style="text-align:left;"> /'æv.ər.ɪdʒ/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> evidence </td>
-   <td style="text-align:left;"> ![](sounds/evidence-hj1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'ev.ɪd.əns/ </td>
-   <td style="text-align:left;"> /'ev.ɪd.əns/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> vinegar </td>
-   <td style="text-align:left;"> ![](sounds/vinegar-hj1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'vɪn.ɪg.ə/ </td>
-   <td style="text-align:left;"> /'vɪn.ɪg.ər/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> policy </td>
-   <td style="text-align:left;"> ![](sounds/policy-6.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'pɒl.əs.i/ </td>
-   <td style="text-align:left;"> /'pɑːl.əs.i/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> ratify </td>
-   <td style="text-align:left;"> ![](sounds/ratify-5.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'ræt.ɪ.faɪ/ </td>
-   <td style="text-align:left;"> /'ræt.ɪ.ˌfaɪ/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> America </td>
-   <td style="text-align:left;"> No sound, just type: 'soundsAmerica' </td>
-   <td style="text-align:left;"> /0100/ </td>
-   <td style="text-align:left;"> /ə.'mer.ɪk.ə/ </td>
-   <td style="text-align:left;"> /ə.'mer.ɪk.ə/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> particular </td>
-   <td style="text-align:left;"> ![](sounds/particular-hj1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /0100/ </td>
-   <td style="text-align:left;"> /pə.'tɪk.jʊl.ə/ </td>
-   <td style="text-align:left;"> /pə.'tɪk.jʊl.ər/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> majority </td>
-   <td style="text-align:left;"> ![](sounds/majority-3.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /0100/ </td>
-   <td style="text-align:left;"> /mə.'dʒɒr.ət.i/ </td>
-   <td style="text-align:left;"> /mə.'dʒɔːr.ət.i/ </td>
-  </tr>
-</tbody>
-</table>
+
+\begin{longtable}{lll}
+\toprule
+Word & Stress & Received Pronunciation\\
+\midrule
+\cellcolor{gray!6}{average} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"\ae v.@r.IdZ}/}\\
+evidence & /100/ & /\textipa{"ev.Id.@ns}/\\
+\cellcolor{gray!6}{vinegar} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"vIn.Ig.@}/}\\
+policy & /100/ & /\textipa{"p6l.@s.i}/\\
+\cellcolor{gray!6}{ratify} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"r\ae t.I.faI}/}\\
+\addlinespace
+America & /0100/ & /\textipa{@."mer.Ik.@}/\\
+\cellcolor{gray!6}{particular} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{p@."tIk.jUl.@}/}\\
+majority & /0100/ & /\textipa{m@."dZ6r.@t.i}/\\
+\bottomrule
+\end{longtable}
 
 Can you formulate the rule...?
 
@@ -195,61 +106,20 @@ States that all words of three syllables or more should have a /-100/ stress pat
 Find the exception:
 
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Word </th>
-   <th style="text-align:left;"> Sounds </th>
-   <th style="text-align:left;"> Stress </th>
-   <th style="text-align:left;"> Received Pronunciation </th>
-   <th style="text-align:left;"> General American </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> energy </td>
-   <td style="text-align:left;"> ![](sounds/energy-4.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
-   <td style="text-align:left;"> /'en.ədʒ.i/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> elephant </td>
-   <td style="text-align:left;"> ![](sounds/elephant-us1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
-   <td style="text-align:left;"> /'el.ɪf.ənt/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> library </td>
-   <td style="text-align:left;"> ![](sounds/library-3.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'laɪb.rər.i/ </td>
-   <td style="text-align:left;"> /'laɪb.ˌrer.i/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> juvenile </td>
-   <td style="text-align:left;"> No sound, just type: 'soundsjuvenile ' </td>
-   <td style="text-align:left;"> // </td>
-   <td style="text-align:left;"> /'dʒuːv.ə.naɪəl/ </td>
-   <td style="text-align:left;"> /'dʒuːv.ə.naɪəl/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> taciturn </td>
-   <td style="text-align:left;"> ![](sounds/taciturn-8.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'tæs.ɪ.tɜːn/ </td>
-   <td style="text-align:left;"> /'tæs.ɪ.ˌt3r ːn/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> develop </td>
-   <td style="text-align:left;"> ![](sounds/develop-hj1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /010/ </td>
-   <td style="text-align:left;"> /di.'vel.əp/ </td>
-   <td style="text-align:left;"> /di.'vel.əp/ </td>
-  </tr>
-</tbody>
-</table>
+
+\begin{longtable}{lll}
+\toprule
+Word & Stress & Received Pronunciation\\
+\midrule
+\cellcolor{gray!6}{energy} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"en.@dZ.i}/}\\
+elephant & /100/ & /\textipa{"el.If.@nt}/\\
+\cellcolor{gray!6}{library} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"laIb.r@r.i}/}\\
+juvenile & /100/ & /\textipa{"dZu:v.@.naI@l}/\\
+\cellcolor{gray!6}{taciturn} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"t\ae s.I.t3:n}/}\\
+\addlinespace
+develop & /010/ & /\textipa{di."vel.@p}/\\
+\bottomrule
+\end{longtable}
 
 
 ### Luick's rule
@@ -270,32 +140,18 @@ Do exceptions to the NSR and / or Luick's rule follow patterns?
 
 ## Vocabulary
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Stress pattern </th>
-   <th style="text-align:left;"> Technical name </th>
-   <th style="text-align:left;"> The primary stress is on </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> /-1/ </td>
-   <td style="text-align:left;"> oxyton </td>
-   <td style="text-align:left;"> the ultimate </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> /-10/ </td>
-   <td style="text-align:left;"> paroxyton </td>
-   <td style="text-align:left;"> the penultimate </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> /-100/ </td>
-   <td style="text-align:left;"> proparoxyton </td>
-   <td style="text-align:left;"> the antepenultimate </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[H]
+\centering
+\begin{tabular}{lll}
+\toprule
+Stress pattern & Technical name & The primary stress is on\\
+\midrule
+\cellcolor{gray!6}{/-1/} & \cellcolor{gray!6}{oxyton} & \cellcolor{gray!6}{the ultimate}\\
+/-10/ & paroxyton & the penultimate\\
+\cellcolor{gray!6}{/-100/} & \cellcolor{gray!6}{proparoxyton} & \cellcolor{gray!6}{the antepenultimate}\\
+\bottomrule
+\end{tabular}
+\end{table}
 
 
 
@@ -305,51 +161,18 @@ Do exceptions to the NSR and / or Luick's rule follow patterns?
 
 
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:left;"> -ade </th>
-   <th style="text-align:left;"> -aire </th>
-   <th style="text-align:left;"> -ee </th>
-   <th style="text-align:left;"> -eer </th>
-   <th style="text-align:left;"> -ese </th>
-   <th style="text-align:left;"> -ette </th>
-   <th style="text-align:left;"> -oo </th>
-   <th style="text-align:left;"> -que </th>
-   <th style="text-align:left;"> -sce </th>
-   <th style="text-align:left;"> -oon </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;font-weight: bold;"> Examples </td>
-   <td style="text-align:left;"> blockade,brigade </td>
-   <td style="text-align:left;"> legionnaire, millionaire </td>
-   <td style="text-align:left;"> absentee, refugee </td>
-   <td style="text-align:left;"> mountaineer, engineer </td>
-   <td style="text-align:left;"> Chinese, Lebanese </td>
-   <td style="text-align:left;"> cigarette, gazette </td>
-   <td style="text-align:left;"> kangaroo, shampoo </td>
-   <td style="text-align:left;"> antique, opaque </td>
-   <td style="text-align:left;"> acquiesce, reminisce </td>
-   <td style="text-align:left;"> afternoon, typhoon </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;"> Exceptions </td>
-   <td style="text-align:left;"> accolade, decade, marmalade, renegade </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> committee, coffee, toffee, Yankee, jubilee, pedigree </td>
-   <td style="text-align:left;"> reindeer </td>
-   <td style="text-align:left;"> manganese </td>
-   <td style="text-align:left;"> omelette </td>
-   <td style="text-align:left;"> igloo </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[H]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}}
+\toprule
+ & -ade & -aire & -ee & -eer & -ese & -ette & -oo & -que & -sce & -oon\\
+\midrule
+\cellcolor{gray!6}{\textbf{Examples}} & \cellcolor{gray!6}{blockade,brigade} & \cellcolor{gray!6}{legionnaire, millionaire} & \cellcolor{gray!6}{absentee, refugee} & \cellcolor{gray!6}{mountaineer, engineer} & \cellcolor{gray!6}{Chinese, Lebanese} & \cellcolor{gray!6}{cigarette, gazette} & \cellcolor{gray!6}{kangaroo, shampoo} & \cellcolor{gray!6}{antique, opaque} & \cellcolor{gray!6}{acquiesce, reminisce} & \cellcolor{gray!6}{afternoon, typhoon}\\
+\textbf{Exceptions} & accolade, decade, marmalade, renegade &  & committee, coffee, toffee, Yankee, jubilee, pedigree & reindeer & manganese & omelette & igloo &  &  & \\
+\bottomrule
+\end{tabular}}
+\end{table}
 
 
 
@@ -361,51 +184,18 @@ Do exceptions to the NSR and / or Luick's rule follow patterns?
 
 
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:left;"> -ia </th>
-   <th style="text-align:left;"> -ial </th>
-   <th style="text-align:left;"> -ible </th>
-   <th style="text-align:left;"> ic(s) </th>
-   <th style="text-align:left;"> -ian </th>
-   <th style="text-align:left;"> -ient </th>
-   <th style="text-align:left;"> -ious </th>
-   <th style="text-align:left;"> -ish </th>
-   <th style="text-align:left;"> -osis </th>
-   <th style="text-align:left;"> -ion </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;font-weight: bold;"> Examples </td>
-   <td style="text-align:left;"> criteria, nostalgia </td>
-   <td style="text-align:left;"> social, material </td>
-   <td style="text-align:left;"> incredible, invisible </td>
-   <td style="text-align:left;"> economics,topic, mechanic, critic </td>
-   <td style="text-align:left;"> politician, optician </td>
-   <td style="text-align:left;"> patient, gradient, sufficient </td>
-   <td style="text-align:left;"> various, suspicious </td>
-   <td style="text-align:left;"> establish, flourish </td>
-   <td style="text-align:left;"> diagnosis, hypnosis </td>
-   <td style="text-align:left;"> division, association </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;font-weight: bold;"> Exceptions </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> eligible, intelligible, corrigible </td>
-   <td style="text-align:left;"> politic, Arabic, Catholic,lunatic, rhetoric </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> television </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[H]
+\centering
+\resizebox{\linewidth}{!}{
+\begin{tabular}{>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}}
+\toprule
+ & -ia & -ial & -ible & ic(s) & -ian & -ient & -ious & -ish & -osis & -ion\\
+\midrule
+\cellcolor{gray!6}{\textbf{Examples}} & \cellcolor{gray!6}{criteria, nostalgia} & \cellcolor{gray!6}{social, material} & \cellcolor{gray!6}{incredible, invisible} & \cellcolor{gray!6}{economics,topic, mechanic, critic} & \cellcolor{gray!6}{politician, optician} & \cellcolor{gray!6}{patient, gradient, sufficient} & \cellcolor{gray!6}{various, suspicious} & \cellcolor{gray!6}{establish, flourish} & \cellcolor{gray!6}{diagnosis, hypnosis} & \cellcolor{gray!6}{division, association}\\
+\textbf{Exceptions} &  &  & eligible, intelligible, corrigible & politic, Arabic, Catholic,lunatic, rhetoric &  &  &  &  &  & television\\
+\bottomrule
+\end{tabular}}
+\end{table}
 
 
 
@@ -425,10 +215,10 @@ Discuss the stress patterns of the following words, and account for the quality 
 vowel in the stress syllable:
 
 
-* ![](/home/adrien/databases/ultimate/photograph-1.mp3)
-* ![](/home/adrien/databases/ultimate/photographer-1.mp3)
-* ![](/home/adrien/databases/ultimate/photographic-2.mp3)
-* ![](/home/adrien/databases/ultimate/photography-1.mp3)
+* \textit{Sound played in class of word: "photograph"}
+* \textit{Sound played in class of word: "photographer"}
+* \textit{Sound played in class of word: "photographic"}
+* \textit{Sound played in class of word: "photography"}
 
 
 

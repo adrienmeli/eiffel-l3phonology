@@ -28,9 +28,9 @@
 
 * < taste > 
 
-* /teɪst/ 
+* /\textipa{teIst}/ 
 
-* [tʰeɪst] 
+* \textipa{[t\super heIst]} 
 
 
 
@@ -47,7 +47,7 @@
 
 ## Absolute MUST-KNOW
 
-**<span style='color: #f44336;'>FUNDAMENTAL RULES</span>** (no exceptions!!): 
+**\color[HTML]{f44336}FUNDAMENTAL RULES \color{black}** (no exceptions!!): 
 
 
 * /00/ impossible at the beginning of a word
@@ -78,126 +78,46 @@
 
 ## Example 1
 
-* V C C/## ...
+* V C^-r^ C/## ...
 
 
 
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:left;"> V C-r C/# </th>
-   <th style="text-align:left;"> V C-r V </th>
-   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
-   <th style="text-align:left;"> V &lt;r&gt; V </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> &lt;a&gt; </td>
-   <td style="text-align:left;"> mat </td>
-   <td style="text-align:left;"> mate </td>
-   <td style="text-align:left;"> mar </td>
-   <td style="text-align:left;"> mare </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;e&gt; </td>
-   <td style="text-align:left;"> pet </td>
-   <td style="text-align:left;"> Pete </td>
-   <td style="text-align:left;"> her </td>
-   <td style="text-align:left;"> here </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;i&gt; </td>
-   <td style="text-align:left;"> sit </td>
-   <td style="text-align:left;"> site </td>
-   <td style="text-align:left;"> fir </td>
-   <td style="text-align:left;"> fire </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;o&gt; </td>
-   <td style="text-align:left;"> not </td>
-   <td style="text-align:left;"> note </td>
-   <td style="text-align:left;"> or </td>
-   <td style="text-align:left;"> ore </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;u&gt; </td>
-   <td style="text-align:left;"> cut </td>
-   <td style="text-align:left;"> cute </td>
-   <td style="text-align:left;"> purr </td>
-   <td style="text-align:left;"> pure </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;u2&gt; </td>
-   <td style="text-align:left;"> put </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[H]
+\centering
+\begin{tabular}{lllll}
+\toprule
+ & V C-r C/\# & V C-r V & V <r> C/\# & V <r> V\\
+\midrule
+\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{mat} & \cellcolor{gray!6}{mate} & \cellcolor{gray!6}{mar} & \cellcolor{gray!6}{mare}\\
+<e> & pet & Pete & her & here\\
+\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{sit} & \cellcolor{gray!6}{site} & \cellcolor{gray!6}{fir} & \cellcolor{gray!6}{fire}\\
+<o> & not & note & or & ore\\
+\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{cut} & \cellcolor{gray!6}{cute} & \cellcolor{gray!6}{purr} & \cellcolor{gray!6}{pure}\\
+\addlinespace
+<u2> & put &  &  & \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 
 
 Can you formulate the rules for each column?
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;">  </th>
-   <th style="text-align:left;"> V C-r C/# </th>
-   <th style="text-align:left;"> V C-r V </th>
-   <th style="text-align:left;"> V &lt;r&gt; C/# </th>
-   <th style="text-align:left;"> V &lt;r&gt; V </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> &lt;a&gt; </td>
-   <td style="text-align:left;"> /mæt/ </td>
-   <td style="text-align:left;"> /meɪt/ </td>
-   <td style="text-align:left;"> /mɑː/ </td>
-   <td style="text-align:left;"> /meə/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;e&gt; </td>
-   <td style="text-align:left;"> /pet/ </td>
-   <td style="text-align:left;"> /piːt/ </td>
-   <td style="text-align:left;"> /hɜː/ </td>
-   <td style="text-align:left;"> /hɪə/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;i&gt; </td>
-   <td style="text-align:left;"> /sɪt/ </td>
-   <td style="text-align:left;"> /saɪt/ </td>
-   <td style="text-align:left;"> /fɜː/ </td>
-   <td style="text-align:left;"> /'faɪ.ə/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;o&gt; </td>
-   <td style="text-align:left;"> /nɒt/ </td>
-   <td style="text-align:left;"> /nəʊt/ </td>
-   <td style="text-align:left;"> /ɔː/ </td>
-   <td style="text-align:left;"> /ɔː/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;u&gt; </td>
-   <td style="text-align:left;"> /kʌt/ </td>
-   <td style="text-align:left;"> /kjuːt/ </td>
-   <td style="text-align:left;"> /pɜː/ </td>
-   <td style="text-align:left;"> /pjʊə/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;u2&gt; </td>
-   <td style="text-align:left;"> /pʊt/ </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-</tbody>
-</table>
+\begin{table}[H]
+\centering
+\begin{tabular}{lllll}
+\toprule
+\cellcolor{gray!6}{<a>} & \cellcolor{gray!6}{/\textipa{m\ae t}/} & \cellcolor{gray!6}{/\textipa{meIt}/} & \cellcolor{gray!6}{/\textipa{mA:}/} & \cellcolor{gray!6}{/\textipa{me@}/}\\
+<e> & /\textipa{pet}/ & /\textipa{pi:t}/ & /\textipa{h3:}/ & /\textipa{hI@}/\\
+\cellcolor{gray!6}{<i>} & \cellcolor{gray!6}{/\textipa{sIt}/} & \cellcolor{gray!6}{/\textipa{saIt}/} & \cellcolor{gray!6}{/\textipa{f3:}/} & \cellcolor{gray!6}{/\textipa{"faI.@}/}\\
+<o> & /\textipa{n6t}/ & /\textipa{n@Ut}/ & /\textipa{O:}/ & /\textipa{O:}/\\
+\cellcolor{gray!6}{<u>} & \cellcolor{gray!6}{/\textipa{k2t}/} & \cellcolor{gray!6}{/\textipa{kju:t}/} & \cellcolor{gray!6}{/\textipa{p3:}/} & \cellcolor{gray!6}{/\textipa{pjU@}/}\\
+\addlinespace
+<u2> & /\textipa{pUt}/ &  &  & \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 What vowels are not present in this chart?
 
@@ -206,16 +126,16 @@ What vowels are not present in this chart?
 
 
 
-* ə 
+* \textipa{@} 
  
 
 
 
 
 
-* ɔɪ 
+* \textipa{OI} 
 
-* aʊ 
+* \textipa{aU} 
 
 
 
@@ -243,7 +163,7 @@ What vowels are not present in this chart?
 
 
 
-#### /ə/, /i/ and /u/ only in unstressed syllables
+#### /\textipa{@}/, /i/ and /u/ only in unstressed syllables
 
 
 
@@ -257,54 +177,18 @@ What vowels are not present in this chart?
 
 Listen to the following words. Give their stress patterns, and transcribe them if you can:
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Word </th>
-   <th style="text-align:left;"> Sounds </th>
-   <th style="text-align:left;"> Stress </th>
-   <th style="text-align:left;"> Received Pronunciation </th>
-   <th style="text-align:left;"> General American </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> canadian </td>
-   <td style="text-align:left;"> ![](sounds/canadian-1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /0100/ </td>
-   <td style="text-align:left;"> /kə.'neɪd.i.ən/ </td>
-   <td style="text-align:left;"> /kə.'neɪd.i.ən/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> comedian </td>
-   <td style="text-align:left;"> ![](sounds/comedian-6.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /0100/ </td>
-   <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
-   <td style="text-align:left;"> /kə.'miːd.i.ən/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> magician </td>
-   <td style="text-align:left;"> ![](sounds/magician-8.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /010/ </td>
-   <td style="text-align:left;"> /mə.'dʒɪʃ.ən/ </td>
-   <td style="text-align:left;"> /mə.'dʒɪʃ.ən/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> custodian </td>
-   <td style="text-align:left;"> ![](sounds/custodian-5.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /0100/ </td>
-   <td style="text-align:left;"> /kʌ.'stəʊd.i.ən/ </td>
-   <td style="text-align:left;"> /kʌ.'stoʊd.i.ən/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> venusian </td>
-   <td style="text-align:left;"> ![](sounds/venusian-1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /0100/ </td>
-   <td style="text-align:left;"> /və.'njuːz.i.ən/ </td>
-   <td style="text-align:left;">  </td>
-  </tr>
-</tbody>
-</table>
+
+\begin{longtable}{lll}
+\toprule
+Word & Stress & Received Pronunciation\\
+\midrule
+\cellcolor{gray!6}{canadian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{k@."neId.i.@n}/}\\
+comedian & /0100/ & /\textipa{k@."mi:d.i.@n}/\\
+\cellcolor{gray!6}{magician} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{m@."dZIS.@n}/}\\
+custodian & /0100/ & /\textipa{k2."st@Ud.i.@n}/\\
+\cellcolor{gray!6}{venusian} & \cellcolor{gray!6}{/0100/} & \cellcolor{gray!6}{/\textipa{v@."nju:z.i.@n}/}\\
+\bottomrule
+\end{longtable}
 
 ### Correction 1
 
@@ -334,54 +218,18 @@ It is an extension of the infamous <-ion> rule, so we can formalize:
 
 * Comment on the vocalic realizations of these words.
 
-<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:left;"> Word </th>
-   <th style="text-align:left;"> Sounds </th>
-   <th style="text-align:left;"> Stress </th>
-   <th style="text-align:left;"> Received Pronunciation </th>
-   <th style="text-align:left;"> General American </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:left;"> canada </td>
-   <td style="text-align:left;"> ![](sounds/canada-1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
-   <td style="text-align:left;"> /'kæn.əd.ə/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> comedy </td>
-   <td style="text-align:left;"> ![](sounds/comedy-2.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'kɒm.əd.i/ </td>
-   <td style="text-align:left;"> /'kɑːm.əd.i/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> magic </td>
-   <td style="text-align:left;"> ![](sounds/magic-4.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /10/ </td>
-   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
-   <td style="text-align:left;"> /'mædʒ.ɪk/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> custody </td>
-   <td style="text-align:left;"> ![](sounds/custody-2.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /100/ </td>
-   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
-   <td style="text-align:left;"> /'kʌst.əd.i/ </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> venus </td>
-   <td style="text-align:left;"> ![](sounds/venus-1.mp3){width="4cm"} </td>
-   <td style="text-align:left;"> /10/ </td>
-   <td style="text-align:left;"> /'viːn.əs/ </td>
-   <td style="text-align:left;"> /'viːn.əs/ </td>
-  </tr>
-</tbody>
-</table>
+
+\begin{longtable}{lll}
+\toprule
+Word & Stress & Received Pronunciation\\
+\midrule
+\cellcolor{gray!6}{canada} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"k\ae n.@d.@}/}\\
+comedy & /100/ & /\textipa{"k6m.@d.i}/\\
+\cellcolor{gray!6}{magic} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m\ae dZ.Ik}/}\\
+custody & /100/ & /\textipa{"k2st.@d.i}/\\
+\cellcolor{gray!6}{venus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"vi:n.@s}/}\\
+\bottomrule
+\end{longtable}
 
 
 
