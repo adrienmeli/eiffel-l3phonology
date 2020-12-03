@@ -150,9 +150,9 @@ criminal & /100/ & /\textipa{"krIm.In.@l}/\\
 
 Ginésy distingue des sous-règles :
 
-* Sous-règle "**tribunal**" : les mots terminés en <-al> et issus d'un mot en VC$^{-r}$e## ont un schéma paroxyton /-10/
+* Sous-règle "**tribunal**" : les mots terminés en <-al> et issus d'un mot en VC$^{-r}$e# ont un schéma paroxyton /-10/
 
-* Sous-règle "**energy**" : les mots non dérivés (donc, opaques) en C$_{2}$y## ont un schéma proparoxyton /-100/
+* Sous-règle "**energy**" : les mots non dérivés (donc, opaques) en C$_{2}$y# ont un schéma proparoxyton /-100/
 
 
 \begin{longtable}{lll}
