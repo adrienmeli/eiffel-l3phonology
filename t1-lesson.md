@@ -83,17 +83,17 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
 \toprule
   & Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{6} & \cellcolor{gray!6}{reduce} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."dju:s}/}\\
-10 & resume & /01/ & /\textipa{ri."zju:m}/\\
-\cellcolor{gray!6}{50} & \cellcolor{gray!6}{confer} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."f3:}/}\\
-40 & uphold & /01/ & /\textipa{2p."h@Uld}/\\
-\cellcolor{gray!6}{31} & \cellcolor{gray!6}{suppose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."p@Uz}/}\\
+\cellcolor{gray!6}{42} & \cellcolor{gray!6}{demand} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."mA:nd}/}\\
+36 & accept & /01/ & /\textipa{@k."sept}/\\
+\cellcolor{gray!6}{18} & \cellcolor{gray!6}{resolve} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."z6lv}/}\\
+40 & appraise & /01/ & /\textipa{@."preIz}/\\
+\cellcolor{gray!6}{26} & \cellcolor{gray!6}{remind} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."maInd}/}\\
 \addlinespace
-23 & impose & /01/ & /\textipa{Im."p@Uz}/\\
-\cellcolor{gray!6}{32} & \cellcolor{gray!6}{forbid} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{f@."bId}/}\\
-46 & rehearse & /01/ & /\textipa{ri."h3:s}/\\
-\cellcolor{gray!6}{14} & \cellcolor{gray!6}{presume} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{pri."zju:m}/}\\
-25 & admit & /01/ & /\textipa{@d."mIt}/\\
+30 & resist & /01/ & /\textipa{ri."zIst}/\\
+\cellcolor{gray!6}{3} & \cellcolor{gray!6}{deter} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."t3:}/}\\
+38 & offend & /01/ & /\textipa{@."fend}/\\
+\cellcolor{gray!6}{21} & \cellcolor{gray!6}{excite} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Ik."saIt}/}\\
+1 & deny & /01/ & /\textipa{di."naI}/\\
 \bottomrule
 \end{longtable}
 
@@ -119,11 +119,11 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés :
 \toprule
   & Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{10} & \cellcolor{gray!6}{injure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"IndZ.@}/}\\
-7 & differ & /10/ & /\textipa{"dIf.@}/\\
 \cellcolor{gray!6}{6} & \cellcolor{gray!6}{suffer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2f.@}/}\\
-5 & prosper & /10/ & /\textipa{"pr6sp.@}/\\
-\cellcolor{gray!6}{8} & \cellcolor{gray!6}{proffer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6f.@}/}\\
+10 & injure & /10/ & /\textipa{"IndZ.@}/\\
+\cellcolor{gray!6}{2} & \cellcolor{gray!6}{enter} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ent.@}/}\\
+4 & sever & /10/ & /\textipa{"sev.@}/\\
+\cellcolor{gray!6}{3} & \cellcolor{gray!6}{destine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dest.In}/}\\
 \bottomrule
 \end{longtable}
 ### Les noms
@@ -135,16 +135,16 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés :
 \toprule
   & Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{28} & \cellcolor{gray!6}{district} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dIs.trIkt}/}\\
-36 & expert & /10/ & /\textipa{"eks.p3:t}/\\
-\cellcolor{gray!6}{46} & \cellcolor{gray!6}{surplus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s3:p.l@s}/}\\
-52 & deluge & /10/ & /\textipa{"del.ju:dZ}/\\
-\cellcolor{gray!6}{33} & \cellcolor{gray!6}{excerpt} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"eks.3:pt}/}\\
+\cellcolor{gray!6}{17} & \cellcolor{gray!6}{preface} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pref.@s}/}\\
+22 & programme & /10/ & /\textipa{"pr@U.gr\ae m}/\\
+\cellcolor{gray!6}{32} & \cellcolor{gray!6}{prefect} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pri:.fekt}/}\\
+41 & subway & /10/ & /\textipa{"s2b.weI}/\\
+\cellcolor{gray!6}{55} & \cellcolor{gray!6}{forehead} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"f6r.Id}/}\\
 \addlinespace
-17 & preface & /10/ & /\textipa{"pref.@s}/\\
-\cellcolor{gray!6}{14} & \cellcolor{gray!6}{prelate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"prel.@t}/}\\
-31 & surplus & /10/ & /\textipa{"s3:p.l@s}/\\
-\cellcolor{gray!6}{11} & \cellcolor{gray!6}{absence} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae b.s@ns}/}\\
+33 & excerpt & /10/ & /\textipa{"eks.3:pt}/\\
+\cellcolor{gray!6}{30} & \cellcolor{gray!6}{effort} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ef.@t}/}\\
+25 & prolog & /10/ & /\textipa{"pr@U.l6g}/\\
+\cellcolor{gray!6}{40} & \cellcolor{gray!6}{income} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"In.k2m}/}\\
 29 & premise & /10/ & /\textipa{"prem.Is}/\\
 \bottomrule
 \end{longtable}

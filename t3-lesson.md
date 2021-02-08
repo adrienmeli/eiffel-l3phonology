@@ -112,17 +112,17 @@ Ceci pose un autre problème théorique : avec l'adoption de symboles non-phoné
 \toprule
   & Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{11} & \cellcolor{gray!6}{narrow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@U}/}\\
-29 & savage & /10/ & /\textipa{"s\ae v.IdZ}/\\
-\cellcolor{gray!6}{9} & \cellcolor{gray!6}{busy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"bIz.i}/}\\
-5 & silky & /10/ & /\textipa{"sIlk.i}/\\
-\cellcolor{gray!6}{17} & \cellcolor{gray!6}{modest} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"m6d.Ist}/}\\
+\cellcolor{gray!6}{30} & \cellcolor{gray!6}{solemn} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s6l.@m}/}\\
+26 & female & /10/ & /\textipa{"fi:m.eI@l}/\\
+\cellcolor{gray!6}{2} & \cellcolor{gray!6}{gentle} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZent.@l}/}\\
+15 & candid & /10/ & /\textipa{"k\ae nd.Id}/\\
+\cellcolor{gray!6}{29} & \cellcolor{gray!6}{savage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s\ae v.IdZ}/}\\
 \addlinespace
-20 & scarlet & /10/ & /\textipa{"skA:l.@t}/\\
-\cellcolor{gray!6}{19} & \cellcolor{gray!6}{lucid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lu:s.Id}/}\\
-30 & solemn & /10/ & /\textipa{"s6l.@m}/\\
-\cellcolor{gray!6}{14} & \cellcolor{gray!6}{sullen} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2l.@n}/}\\
-16 & proper & /10/ & /\textipa{"pr6p.@}/\\
+5 & silky & /10/ & /\textipa{"sIlk.i}/\\
+\cellcolor{gray!6}{18} & \cellcolor{gray!6}{barren} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"b\ae r.@n}/}\\
+28 & rapid & /10/ & /\textipa{"r\ae p.Id}/\\
+\cellcolor{gray!6}{10} & \cellcolor{gray!6}{sudden} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2d.@n}/}\\
+7 & yellow & /10/ & /\textipa{"jel.@U}/\\
 \bottomrule
 \end{longtable}
 
@@ -331,6 +331,7 @@ prolix & /10/ & /\textipa{"pr@U.lIks}/\\
 
 
 
-NULL
+Roach, P. (2009). _English Phonetics and Phonology _. Cambridge
+University Press: Cambridge University Press.
 
 
