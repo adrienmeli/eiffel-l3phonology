@@ -23,7 +23,8 @@
 
 ## Les disyllabiques
 
-(*C.f.* @duchet2018 p.24 et suivantes)
+(*C.f.*   p.24 et suivantes)
+
  
 ### les préfixes
 

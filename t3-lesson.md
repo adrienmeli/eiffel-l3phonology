@@ -31,7 +31,7 @@ Avant de continuer sur les dissyllabiques, regardons les différences entre :
 
 \end{column}
 
-Nous suivons ici @roach2009.
+Nous suivons ici r (Roach, 2009).
 
 
 
