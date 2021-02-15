@@ -112,17 +112,17 @@ Ceci pose un autre problème théorique : avec l'adoption de symboles non-phoné
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{solemn} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s6l.@m}/}\\
-gentle & /10/ & /\textipa{"dZent.@l}/\\
-\cellcolor{gray!6}{scarlet} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"skA:l.@t}/}\\
-busy & /10/ & /\textipa{"bIz.i}/\\
-\cellcolor{gray!6}{rapid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"r\ae p.Id}/}\\
-\addlinespace
-modest & /10/ & /\textipa{"m6d.Ist}/\\
+\cellcolor{gray!6}{proper} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6p.@}/}\\
+vivid & /10/ & /\textipa{"vIv.Id}/\\
 \cellcolor{gray!6}{sudden} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2d.@n}/}\\
-silky & /10/ & /\textipa{"sIlk.i}/\\
-\cellcolor{gray!6}{sullen} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2l.@n}/}\\
-dismal & /10/ & /\textipa{"dIz.m@l}/\\
+stubborn & /10/ & /\textipa{"st2b.@n}/\\
+\cellcolor{gray!6}{savage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s\ae v.IdZ}/}\\
+\addlinespace
+tidy & /10/ & /\textipa{"taId.i}/\\
+\cellcolor{gray!6}{candid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k\ae nd.Id}/}\\
+clever & /10/ & /\textipa{"klev.@}/\\
+\cellcolor{gray!6}{barren} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"b\ae r.@n}/}\\
+tender & /10/ & /\textipa{"tend.@}/\\
 \bottomrule
 \end{longtable}
 
