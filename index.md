@@ -2,7 +2,7 @@
 title: "L3 Phonologie"
 subtitle: "Université Gustave Eiffel"
 author: "Adrien Méli"
-date: "February 08, 2021"
+date: "February 15, 2021"
 bibliography: /home/adrien/github/dotfiles/tex/biblio.bib
 biblio-style: "apalike"
 link-citations: yes

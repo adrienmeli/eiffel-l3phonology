@@ -26,21 +26,21 @@ Il existe des exceptions, qui ont donc un schéma accentuel oxyton (/01/) :
 10 exemples :
 
 
-\begin{longtable}{llll}
+\begin{longtable}{lll}
 \toprule
-  & Word & Stress & Received Pronunciation\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{18} & \cellcolor{gray!6}{offence} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."fens}/}\\
-36 & infirm & /01/ & /\textipa{In."f3:m}/\\
-\cellcolor{gray!6}{27} & \cellcolor{gray!6}{descent} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."sent}/}\\
-31 & bequest & /01/ & /\textipa{bi."kwest}/\\
-\cellcolor{gray!6}{14} & \cellcolor{gray!6}{belief} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{bi."li:f}/}\\
+\cellcolor{gray!6}{conceit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."si:t}/}\\
+reproof & /01/ & /\textipa{ri."pru:f}/\\
+\cellcolor{gray!6}{regime} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{reI."Zi:m}/}\\
+esquire & /010/ & /\textipa{I."skwaI.@}/\\
+\cellcolor{gray!6}{infirm} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."f3:m}/}\\
 \addlinespace
-10 & success & /01/ & /\textipa{s@k."ses}/\\
-\cellcolor{gray!6}{2} & \cellcolor{gray!6}{prestige} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{pre."sti:Z}/}\\
-3 & collage & /01/ & /\textipa{k6."lA:Z}/\\
-\cellcolor{gray!6}{22} & \cellcolor{gray!6}{constraint} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."streInt}/}\\
-42 & remorse & /01/ & /\textipa{ri."mO:s}/\\
+excuse & /01/ & /\textipa{Ik."skju:z}/\\
+\cellcolor{gray!6}{recluse} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."klu:s}/}\\
+prestige & /01/ & /\textipa{pre."sti:Z}/\\
+\cellcolor{gray!6}{deceit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."si:t}/}\\
+affair & /01/ & /\textipa{@."fe@}/\\
 \bottomrule
 \end{longtable}
 
@@ -56,21 +56,21 @@ Il existe un inventaire de mots isolés ayant un schéma oxyton (/01/).
 
 
 
-\begin{longtable}{llll}
+\begin{longtable}{lll}
 \toprule
-  & Word & Stress & Received Pronunciation\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{27} & \cellcolor{gray!6}{cigar} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{si."gA:}/}\\
-5 & polite & /01/ & /\textipa{p@."laIt}/\\
-\cellcolor{gray!6}{2} & \cellcolor{gray!6}{mature} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{m@."tSU@}/}\\
-33 & cadet & /01/ & /\textipa{k@."det}/\\
-\cellcolor{gray!6}{24} & \cellcolor{gray!6}{fatigue} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{f@."ti:g}/}\\
+\cellcolor{gray!6}{morale} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{m@."rA:l}/}\\
+unite & /01/ & /\textipa{ju."naIt}/\\
+\cellcolor{gray!6}{caprice} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@."pri:s}/}\\
+naive & /01/ & /\textipa{naI."i:v}/\\
+\cellcolor{gray!6}{jocose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dZ@U."k@Us}/}\\
 \addlinespace
-34 & meringue & /01/ & /\textipa{m@."r\ae N}/\\
-\cellcolor{gray!6}{22} & \cellcolor{gray!6}{sardine} & \cellcolor{gray!6}{/21/} & \cellcolor{gray!6}{/\textipa{""sA:."di:n}/}\\
-31 & moustache & /01/ & /\textipa{m@."stA:S}/\\
-\cellcolor{gray!6}{20} & \cellcolor{gray!6}{routine} & \cellcolor{gray!6}{/21/} & \cellcolor{gray!6}{/\textipa{""ru:."ti:n}/}\\
-11 & morose & /01/ & /\textipa{m@."r@Us}/\\
+guitar & /01/ & /\textipa{gI."tA:}/\\
+\cellcolor{gray!6}{sardine} & \cellcolor{gray!6}{/21/} & \cellcolor{gray!6}{/\textipa{""sA:."di:n}/}\\
+polite & /01/ & /\textipa{p@."laIt}/\\
+\cellcolor{gray!6}{liqueur} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{li."kjU@}/}\\
+cigar & /01/ & /\textipa{si."gA:}/\\
 \bottomrule
 \end{longtable}
 
@@ -90,42 +90,42 @@ Il existe trois possibilités :
 ### Schéma oxyton
 
 
-\begin{longtable}{llll}
+\begin{longtable}{lll}
 \toprule
-  & Word & Stress & Received Pronunciation\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{44} & \cellcolor{gray!6}{research} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."s3:tS}/}\\
-17 & appeal & /01/ & /\textipa{@."pi:@l}/\\
-\cellcolor{gray!6}{5} & \cellcolor{gray!6}{address} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."dres}/}\\
-54 & despair & /01/ & /\textipa{di."spe@}/\\
-\cellcolor{gray!6}{56} & \cellcolor{gray!6}{respect} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."spekt}/}\\
+\cellcolor{gray!6}{appeal} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."pi:@l}/}\\
+remand & /01/ & /\textipa{ri."mA:nd}/\\
+\cellcolor{gray!6}{consent} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@n."sent}/}\\
+repeal & /01/ & /\textipa{ri."pi:@l}/\\
+\cellcolor{gray!6}{dislike} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dIs."laIk}/}\\
 \addlinespace
-80 & revenge & /01/ & /\textipa{ri."vendZ}/\\
-\cellcolor{gray!6}{26} & \cellcolor{gray!6}{delay} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."leI}/}\\
-70 & disgrace & /01/ & /\textipa{dIs."greIs}/\\
-\cellcolor{gray!6}{12} & \cellcolor{gray!6}{repeal} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."pi:@l}/}\\
-81 & consent & /01/ & /\textipa{k@n."sent}/\\
+relapse & /01/ & /\textipa{ri."l\ae ps}/\\
+\cellcolor{gray!6}{attempt} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."tempt}/}\\
+approach & /01/ & /\textipa{@."pr@UtS}/\\
+\cellcolor{gray!6}{desire} & \cellcolor{gray!6}{/010/} & \cellcolor{gray!6}{/\textipa{di."zaI.@}/}\\
+rebuke & /01/ & /\textipa{ri."bju:k}/\\
 \bottomrule
 \end{longtable}
 
 ### Schéma paroxyton
 
 
-\begin{longtable}{llll}
+\begin{longtable}{lll}
 \toprule
-  & Word & Stress & Received Pronunciation\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{16} & \cellcolor{gray!6}{detail} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"di:.teI@l}/}\\
-36 & traffic & /10/ & /\textipa{"tr\ae f.Ik}/\\
-\cellcolor{gray!6}{6} & \cellcolor{gray!6}{comfort} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2mf.@t}/}\\
-23 & suffix & /10/ & /\textipa{"s2f.Iks}/\\
-\cellcolor{gray!6}{35} & \cellcolor{gray!6}{sojourn} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s6dZ.@n}/}\\
+\cellcolor{gray!6}{outrage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"aUt.reIdZ}/}\\
+purchase & /10/ & /\textipa{"p3:tS.@s}/\\
+\cellcolor{gray!6}{compass} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2mp.@s}/}\\
+invoice & /10/ & /\textipa{"In.vOIs}/\\
+\cellcolor{gray!6}{combat} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6m.b\ae t}/}\\
 \addlinespace
-10 & incense & /10/ & /\textipa{"In.sens}/\\
-\cellcolor{gray!6}{13} & \cellcolor{gray!6}{concrete} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6N.kri:t}/}\\
-29 & surface & /10/ & /\textipa{"s3:f.Is}/\\
-\cellcolor{gray!6}{37} & \cellcolor{gray!6}{contact} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6n.t\ae kt}/}\\
-8 & purchase & /10/ & /\textipa{"p3:tS.@s}/\\
+outline & /10/ & /\textipa{"aUt.laIn}/\\
+\cellcolor{gray!6}{exile} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"eks.aI@l}/}\\
+suffix & /10/ & /\textipa{"s2f.Iks}/\\
+\cellcolor{gray!6}{offer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6f.@}/}\\
+forfeit & /10/ & /\textipa{"fO:f.It}/\\
 \bottomrule
 \end{longtable}
 
@@ -137,42 +137,42 @@ C'est-à-dire qu'ils seront accentués sur la pénultième s'ils sont employés 
 
 
 
-\begin{longtable}{llll}
+\begin{longtable}{lll}
 \toprule
-  & Word & Stress & Received Pronunciation\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{19} & \cellcolor{gray!6}{discharge} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{dIs."tSA:dZ}/}\\
-3 & insult & /01/ & /\textipa{In."s2lt}/\\
-\cellcolor{gray!6}{1} & \cellcolor{gray!6}{abstract} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae b.str\ae kt}/}\\
-4 & incense & /10/ & /\textipa{"In.sens}/\\
-\cellcolor{gray!6}{8} & \cellcolor{gray!6}{transport} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{tr\ae ns."pO:t}/}\\
+\cellcolor{gray!6}{insult} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."s2lt}/}\\
+imprint & /01/ & /\textipa{Im."prInt}/\\
+\cellcolor{gray!6}{abstract} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"\ae b.str\ae kt}/}\\
+increase & /10/ & /\textipa{"IN.kri:s}/\\
+\cellcolor{gray!6}{import} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Im."pO:t}/}\\
 \addlinespace
-5 & discourse & /10/ & /\textipa{"dIs.kO:s}/\\
-\cellcolor{gray!6}{16} & \cellcolor{gray!6}{survey} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{s@."veI}/}\\
-14 & intern & /01/ & /\textipa{In."t3:n}/\\
-\cellcolor{gray!6}{2} & \cellcolor{gray!6}{digest} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"daI.dZest}/}\\
-10 & imprint & /01/ & /\textipa{Im."prInt}/\\
+digest & /10/ & /\textipa{"daI.dZest}/\\
+\cellcolor{gray!6}{replay} & \cellcolor{gray!6}{/21/} & \cellcolor{gray!6}{/\textipa{""ri:."pleI}/}\\
+export & /01/ & /\textipa{Ik."spO:t}/\\
+\cellcolor{gray!6}{decrease} & \cellcolor{gray!6}{/21/} & \cellcolor{gray!6}{/\textipa{""di:."kri:s}/}\\
+reprint & /21/ & /\textipa{""ri:."prInt}/\\
 \bottomrule
 \end{longtable}
 
 Dans certains mots, la voyelle de la syllabe inaccentuée est réduite :
 
 
-\begin{longtable}{llll}
+\begin{longtable}{lll}
 \toprule
-  & Word & Stress & Received Pronunciation\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{4} & \cellcolor{gray!6}{annex} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."neks}/}\\
-19 & contrast & /10/ & /\textipa{"k6n.trA:st}/\\
-\cellcolor{gray!6}{7} & \cellcolor{gray!6}{progress} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr@U.gres}/}\\
-11 & contest & /01/ & /\textipa{k@n."test}/\\
-\cellcolor{gray!6}{38} & \cellcolor{gray!6}{exploit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"eks.plOIt}/}\\
+\cellcolor{gray!6}{annex} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."neks}/}\\
+contest & /01/ & /\textipa{k@n."test}/\\
+\cellcolor{gray!6}{subject} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2b.dZekt}/}\\
+permit & /01/ & /\textipa{p@."mIt}/\\
+\cellcolor{gray!6}{recoil} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."kOI@l}/}\\
 \addlinespace
-26 & produce & /01/ & /\textipa{pr@."dju:s}/\\
-\cellcolor{gray!6}{23} & \cellcolor{gray!6}{present} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"prez.@nt}/}\\
-31 & combine & /01/ & /\textipa{k@m."baIn}/\\
-\cellcolor{gray!6}{36} & \cellcolor{gray!6}{rebel} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."bel}/}\\
-15 & protest & /01/ & /\textipa{pr@."test}/\\
+transfer & /01/ & /\textipa{tr\ae ns."f3:}/\\
+\cellcolor{gray!6}{desert} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dez.@t}/}\\
+convict & /01/ & /\textipa{k@n."vIkt}/\\
+\cellcolor{gray!6}{extract} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{Ik."str\ae kt}/}\\
+compound & /01/ & /\textipa{k@m."paUnd}/\\
 \bottomrule
 \end{longtable}
 

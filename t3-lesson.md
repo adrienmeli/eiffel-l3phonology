@@ -108,21 +108,21 @@ Ceci pose un autre problème théorique : avec l'adoption de symboles non-phoné
 ### Les non-préfixés : /10/
 
 
-\begin{longtable}{llll}
+\begin{longtable}{lll}
 \toprule
-  & Word & Stress & Received Pronunciation\\
+Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{30} & \cellcolor{gray!6}{solemn} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s6l.@m}/}\\
-26 & female & /10/ & /\textipa{"fi:m.eI@l}/\\
-\cellcolor{gray!6}{2} & \cellcolor{gray!6}{gentle} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dZent.@l}/}\\
-15 & candid & /10/ & /\textipa{"k\ae nd.Id}/\\
-\cellcolor{gray!6}{29} & \cellcolor{gray!6}{savage} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s\ae v.IdZ}/}\\
+\cellcolor{gray!6}{solemn} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s6l.@m}/}\\
+gentle & /10/ & /\textipa{"dZent.@l}/\\
+\cellcolor{gray!6}{scarlet} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"skA:l.@t}/}\\
+busy & /10/ & /\textipa{"bIz.i}/\\
+\cellcolor{gray!6}{rapid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"r\ae p.Id}/}\\
 \addlinespace
-5 & silky & /10/ & /\textipa{"sIlk.i}/\\
-\cellcolor{gray!6}{18} & \cellcolor{gray!6}{barren} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"b\ae r.@n}/}\\
-28 & rapid & /10/ & /\textipa{"r\ae p.Id}/\\
-\cellcolor{gray!6}{10} & \cellcolor{gray!6}{sudden} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2d.@n}/}\\
-7 & yellow & /10/ & /\textipa{"jel.@U}/\\
+modest & /10/ & /\textipa{"m6d.Ist}/\\
+\cellcolor{gray!6}{sudden} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2d.@n}/}\\
+silky & /10/ & /\textipa{"sIlk.i}/\\
+\cellcolor{gray!6}{sullen} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2l.@n}/}\\
+dismal & /10/ & /\textipa{"dIz.m@l}/\\
 \bottomrule
 \end{longtable}
 

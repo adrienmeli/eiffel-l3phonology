@@ -235,7 +235,6 @@ Aucune exception n'est notée dans (Duchet, 2018).
 
 
 
-Duchet, J. (2018). _Code de l'anglais oral_. Paris: Ophrys. ISBN:
-9782708015043.
+Duchet, J. (2018). _Code de l'anglais oral_. Paris: Ophrys.
 
 
