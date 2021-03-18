@@ -23,7 +23,7 @@ Au-delà du schéma accentuel, il convient de toujours s'interroger sur la quali
 
 ## Tableau des suffixes neutres
 
-\quad \faWarning \quad Il s'agit de suffixes **détachables**, tels que <-less> dans "*toothless*", mais pas dans "*unless*" ou "*nevertheless*".
+\quad \faexclamation-triangle \quad Il s'agit de suffixes **détachables**, tels que <-less> dans "*toothless*", mais pas dans "*unless*" ou "*nevertheless*".
 
 
 ### Commençant par une consonne

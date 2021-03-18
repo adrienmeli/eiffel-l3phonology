@@ -83,7 +83,7 @@
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule
@@ -104,7 +104,7 @@
 
 Can you formulate the rules for each column?
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lllll}
 \toprule

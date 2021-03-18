@@ -140,7 +140,7 @@ Do exceptions to the NSR and / or Luick's rule follow patterns?
 
 ## Vocabulary
 
-\begin{table}[H]
+\begin{table}
 \centering
 \begin{tabular}{lll}
 \toprule
@@ -161,7 +161,7 @@ Stress pattern & Technical name & The primary stress is on\\
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \resizebox{\linewidth}{!}{
 \begin{tabular}{>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}}
@@ -184,7 +184,7 @@ Stress pattern & Technical name & The primary stress is on\\
 
 
 
-\begin{table}[H]
+\begin{table}
 \centering
 \resizebox{\linewidth}{!}{
 \begin{tabular}{>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}>{\raggedright\arraybackslash}p{2.5cm}}

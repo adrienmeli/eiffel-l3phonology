@@ -83,17 +83,17 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{resist} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."zIst}/}\\
-forget & /01/ & /\textipa{f@."get}/\\
-\cellcolor{gray!6}{forgive} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{f@."gIv}/}\\
-rehearse & /01/ & /\textipa{ri."h3:s}/\\
-\cellcolor{gray!6}{enact} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{In."\ae kt}/}\\
-\addlinespace
-remind & /01/ & /\textipa{ri."maInd}/\\
-\cellcolor{gray!6}{demand} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."mA:nd}/}\\
-disclose & /01/ & /\textipa{dIs."kl@Uz}/\\
-\cellcolor{gray!6}{betray} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{bi."treI}/}\\
+\cellcolor{gray!6}{allure} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."lU@}/}\\
 offend & /01/ & /\textipa{@."fend}/\\
+\cellcolor{gray!6}{forbid} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{f@."bId}/}\\
+admit & /01/ & /\textipa{@d."mIt}/\\
+\cellcolor{gray!6}{refer} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."f3:}/}\\
+\addlinespace
+deduce & /01/ & /\textipa{di."dju:s}/\\
+\cellcolor{gray!6}{compose} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{k@m."p@Uz}/}\\
+enrol & /01/ & /\textipa{In."r@Ul}/\\
+\cellcolor{gray!6}{mistake} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{mi."steIk}/}\\
+accept & /01/ & /\textipa{@k."sept}/\\
 \bottomrule
 \end{longtable}
 
@@ -119,11 +119,11 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés :
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{differ} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dIf.@}/}\\
+\cellcolor{gray!6}{sever} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sev.@}/}\\
 suffer & /10/ & /\textipa{"s2f.@}/\\
-\cellcolor{gray!6}{prosper} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6sp.@}/}\\
-destine & /10/ & /\textipa{"dest.In}/\\
-\cellcolor{gray!6}{enter} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ent.@}/}\\
+\cellcolor{gray!6}{destine} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"dest.In}/}\\
+injure & /10/ & /\textipa{"IndZ.@}/\\
+\cellcolor{gray!6}{conjure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k2ndZ.@}/}\\
 \bottomrule
 \end{longtable}
 ### Les noms
@@ -135,17 +135,17 @@ destine & /10/ & /\textipa{"dest.In}/\\
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{exit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"eks.It}/}\\
-insect & /10/ & /\textipa{"In.sekt}/\\
-\cellcolor{gray!6}{programme} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr@U.gr\ae m}/}\\
-concourse & /10/ & /\textipa{"k6N.kO:s}/\\
-\cellcolor{gray!6}{influx} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"In.fl2ks}/}\\
+\cellcolor{gray!6}{forehead} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"f6r.Id}/}\\
+congress & /10/ & /\textipa{"k6N.gres}/\\
+\cellcolor{gray!6}{concord} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6N.kO:d}/}\\
+convent & /10/ & /\textipa{"k6n.v@nt}/\\
+\cellcolor{gray!6}{concourse} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6N.kO:s}/}\\
 \addlinespace
-proverb & /10/ & /\textipa{"pr6v.3:b}/\\
-\cellcolor{gray!6}{annex} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."neks}/}\\
-oblate & /10/ & /\textipa{"6b.leIt}/\\
-\cellcolor{gray!6}{convent} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6n.v@nt}/}\\
-deluge & /10/ & /\textipa{"del.ju:dZ}/\\
+transit & /10/ & /\textipa{"tr\ae ns.It}/\\
+\cellcolor{gray!6}{surplus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s3:p.l@s}/}\\
+influx & /10/ & /\textipa{"In.fl2ks}/\\
+\cellcolor{gray!6}{inmate} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"In.meIt}/}\\
+excise & /10/ & /\textipa{"eks.aIz}/\\
 \bottomrule
 \end{longtable}
 
