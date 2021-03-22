@@ -112,17 +112,17 @@ Ceci pose un autre problème théorique : avec l'adoption de symboles non-phoné
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{clever} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"klev.@}/}\\
-proper & /10/ & /\textipa{"pr6p.@}/\\
-\cellcolor{gray!6}{stubborn} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"st2b.@n}/}\\
-modest & /10/ & /\textipa{"m6d.Ist}/\\
-\cellcolor{gray!6}{rugged} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"r2g.Id}/}\\
+\cellcolor{gray!6}{merry} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"mer.i}/}\\
+sullen & /10/ & /\textipa{"s2l.@n}/\\
+\cellcolor{gray!6}{honest} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6n.Ist}/}\\
+eager & /10/ & /\textipa{"i:g.@}/\\
+\cellcolor{gray!6}{lucid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"lu:s.Id}/}\\
 \addlinespace
-shallow & /10/ & /\textipa{"S\ae l.@U}/\\
-\cellcolor{gray!6}{narrow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@U}/}\\
-female & /10/ & /\textipa{"fi:m.eI@l}/\\
-\cellcolor{gray!6}{busy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"bIz.i}/}\\
-lucid & /10/ & /\textipa{"lu:s.Id}/\\
+timid & /10/ & /\textipa{"tIm.Id}/\\
+\cellcolor{gray!6}{female} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"fi:m.eI@l}/}\\
+modest & /10/ & /\textipa{"m6d.Ist}/\\
+\cellcolor{gray!6}{proper} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6p.@}/}\\
+tender & /10/ & /\textipa{"tend.@}/\\
 \bottomrule
 \end{longtable}
 
