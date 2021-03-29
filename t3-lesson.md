@@ -112,17 +112,17 @@ Ceci pose un autre problème théorique : avec l'adoption de symboles non-phoné
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{candid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k\ae nd.Id}/}\\
-rugged & /10/ & /\textipa{"r2g.Id}/\\
-\cellcolor{gray!6}{merry} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"mer.i}/}\\
-vivid & /10/ & /\textipa{"vIv.Id}/\\
-\cellcolor{gray!6}{yellow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"jel.@U}/}\\
+\cellcolor{gray!6}{narrow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"n\ae r.@U}/}\\
+proper & /10/ & /\textipa{"pr6p.@}/\\
+\cellcolor{gray!6}{honest} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6n.Ist}/}\\
+sullen & /10/ & /\textipa{"s2l.@n}/\\
+\cellcolor{gray!6}{scarlet} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"skA:l.@t}/}\\
 \addlinespace
-barren & /10/ & /\textipa{"b\ae r.@n}/\\
-\cellcolor{gray!6}{shallow} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"S\ae l.@U}/}\\
+clever & /10/ & /\textipa{"klev.@}/\\
+\cellcolor{gray!6}{timid} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"tIm.Id}/}\\
 savage & /10/ & /\textipa{"s\ae v.IdZ}/\\
-\cellcolor{gray!6}{busy} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"bIz.i}/}\\
-narrow & /10/ & /\textipa{"n\ae r.@U}/\\
+\cellcolor{gray!6}{simple} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"sImp.@l}/}\\
+gentle & /10/ & /\textipa{"dZent.@l}/\\
 \bottomrule
 \end{longtable}
 

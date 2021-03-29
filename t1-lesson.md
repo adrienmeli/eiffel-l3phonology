@@ -83,17 +83,17 @@ Ces verbes ont un schéma accentuel oxyton (/01/).
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{appraise} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@."preIz}/}\\
-excel & /01/ & /\textipa{Ik."sel}/\\
-\cellcolor{gray!6}{forbid} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{f@."bId}/}\\
-arrange & /01/ & /\textipa{@."reIndZ}/\\
-\cellcolor{gray!6}{admit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@d."mIt}/}\\
+\cellcolor{gray!6}{deny} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{di."naI}/}\\
+mistake & /01/ & /\textipa{mi."steIk}/\\
+\cellcolor{gray!6}{reprove} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."pru:v}/}\\
+refer & /01/ & /\textipa{ri."f3:}/\\
+\cellcolor{gray!6}{uphold} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{2p."h@Uld}/}\\
 \addlinespace
-disclose & /01/ & /\textipa{dIs."kl@Uz}/\\
-\cellcolor{gray!6}{repair} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."pe@}/}\\
-reprove & /01/ & /\textipa{ri."pru:v}/\\
-\cellcolor{gray!6}{resign} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."zaIn}/}\\
-resist & /01/ & /\textipa{ri."zIst}/\\
+impose & /01/ & /\textipa{Im."p@Uz}/\\
+\cellcolor{gray!6}{admit} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{@d."mIt}/}\\
+reduce & /01/ & /\textipa{ri."dju:s}/\\
+\cellcolor{gray!6}{resume} & \cellcolor{gray!6}{/01/} & \cellcolor{gray!6}{/\textipa{ri."zju:m}/}\\
+excite & /01/ & /\textipa{Ik."saIt}/\\
 \bottomrule
 \end{longtable}
 
@@ -119,11 +119,11 @@ Par ailleurs, certains verbes ne sont plus perçus comme étant préfixés :
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{suffer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2f.@}/}\\
+\cellcolor{gray!6}{enter} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ent.@}/}\\
+suffer & /10/ & /\textipa{"s2f.@}/\\
+\cellcolor{gray!6}{conquer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6Nk.@}/}\\
 destine & /10/ & /\textipa{"dest.In}/\\
-\cellcolor{gray!6}{edit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"ed.It}/}\\
-differ & /10/ & /\textipa{"dIf.@}/\\
-\cellcolor{gray!6}{injure} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"IndZ.@}/}\\
+\cellcolor{gray!6}{proffer} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr6f.@}/}\\
 \bottomrule
 \end{longtable}
 ### Les noms
@@ -135,17 +135,17 @@ differ & /10/ & /\textipa{"dIf.@}/\\
 \toprule
 Word & Stress & Received Pronunciation\\
 \midrule
-\cellcolor{gray!6}{programme} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"pr@U.gr\ae m}/}\\
-premise & /10/ & /\textipa{"prem.Is}/\\
-\cellcolor{gray!6}{surplus} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s3:p.l@s}/}\\
-absence & /10/ & /\textipa{"\ae b.s@ns}/\\
-\cellcolor{gray!6}{excise} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"eks.aIz}/}\\
+\cellcolor{gray!6}{exit} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"eks.It}/}\\
+district & /10/ & /\textipa{"dIs.trIkt}/\\
+\cellcolor{gray!6}{insect} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"In.sekt}/}\\
+prefect & /10/ & /\textipa{"pri:.fekt}/\\
+\cellcolor{gray!6}{onset} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"6n.set}/}\\
 \addlinespace
-preface & /10/ & /\textipa{"pref.@s}/\\
-\cellcolor{gray!6}{expert} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"eks.p3:t}/}\\
-reflex & /10/ & /\textipa{"ri:.fleks}/\\
-\cellcolor{gray!6}{transcript} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"tr\ae ns.krIpt}/}\\
-precinct & /10/ & /\textipa{"pri:.sINkt}/\\
+transcript & /10/ & /\textipa{"tr\ae ns.krIpt}/\\
+\cellcolor{gray!6}{concord} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"k6N.kO:d}/}\\
+content & /01/ & /\textipa{k@n."tent}/\\
+\cellcolor{gray!6}{subgroup} & \cellcolor{gray!6}{/10/} & \cellcolor{gray!6}{/\textipa{"s2b.gru:p}/}\\
+surplus & /10/ & /\textipa{"s3:p.l@s}/\\
 \bottomrule
 \end{longtable}
 
