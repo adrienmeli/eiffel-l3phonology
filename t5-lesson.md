@@ -118,16 +118,16 @@ fratricidal & /2010/ & /\textipa{""fr\ae tr.I."saId.@l}/\\
 Word & Stress & Received Pronunciation\\
 \midrule
 \cellcolor{gray!6}{spermicide} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"sp3:m.I.saId}/}\\
+parricide & /100/ & /\textipa{"p\ae r.I.saId}/\\
+\cellcolor{gray!6}{suicide} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"su:.I.saId}/}\\
 tyrannicide & /0100/ & /\textipa{ti."r\ae n.I.saId}/\\
-\cellcolor{gray!6}{homicide} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"h6m.I.saId}/}\\
-suicide & /100/ & /\textipa{"su:.I.saId}/\\
-\cellcolor{gray!6}{fratricide} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"fr\ae tr.I.saId}/}\\
-\addlinespace
-decide & /01/ & /\textipa{di."saId}/\\
-\cellcolor{gray!6}{matricide} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"meItr.I.saId}/}\\
-herbicide & /100/ & /\textipa{"h3:b.I.saId}/\\
 \cellcolor{gray!6}{regicide} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"redZ.I.saId}/}\\
-vermicide & /100/ & /\textipa{"v3:m.I.saId}/\\
+\addlinespace
+infanticide & /0100/ & /\textipa{In."f\ae nt.I.saId}/\\
+\cellcolor{gray!6}{coincide} & \cellcolor{gray!6}{/201/} & \cellcolor{gray!6}{/\textipa{""k@U.In."saId}/}\\
+homicide & /100/ & /\textipa{"h6m.I.saId}/\\
+\cellcolor{gray!6}{fungicide} & \cellcolor{gray!6}{/100/} & \cellcolor{gray!6}{/\textipa{"f2N.gI.saId}/}\\
+decide & /01/ & /\textipa{di."saId}/\\
 \bottomrule
 \end{longtable}
 
